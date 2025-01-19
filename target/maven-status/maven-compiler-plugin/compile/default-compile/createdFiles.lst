@@ -1,0 +1,5 @@
+com/example/springvue/model/Fan.class
+com/example/springvue/service/FanService.class
+com/example/springvue/controller/HelloController.class
+com/example/springvue/controller/FanController.class
+com/example/springvue/SpringVueApplication.class
