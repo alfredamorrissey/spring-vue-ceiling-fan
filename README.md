@@ -25,7 +25,6 @@ You can load the app using the following link
 [http://localhost:8080/](http://localhost:8080/)
 
 Click the Speed button to increase the speed from 0-3. If the speed = 3 and you increase the speed, it will restart at 0.
-
 Click the Direction button to toggle between clockwise and counter-clockwise
 
 This endpoint should list all the fans in the database. On initial load of the docker container it should be an empty array.
